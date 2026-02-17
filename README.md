@@ -1,5 +1,3 @@
-# arduino-12-led-control-2020
-First Arduino project – controlling 12 LEDs (High school, September 2020)
 # Arduino 12 LED Control (2020)
 
 This was my very first Arduino project, completed in September 2020 during high school (Data Electronics/Data elektronikk).
